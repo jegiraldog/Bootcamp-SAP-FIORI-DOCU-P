@@ -32,7 +32,9 @@ Durante el bootcamp iremos realizando diariamente una sesión donde introducirem
 > Asegurate de haber completado los [prerrequisitos](/prerequisites.md). 
  
 ### Semana 1 
-#### Dia 1
+#### Dia 1 - ¿Qué es SAP?
+#### Dia 2 - Fundamentos de Fiori 
+
 
 
 
