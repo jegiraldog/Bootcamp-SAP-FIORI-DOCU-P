@@ -20,7 +20,7 @@ La empresa ficticia Northwind Traders se dedica a la venta de productos alimenti
 
 
 ## Requerimientos :white_check_mark:
-Para completar los ejercicios de este repositorio, debes tener acceso a la cuenta BTP Trial, etc. Puedes revisar los prerrequisitos [aqui](/prerequistes.md). 
+Para completar los ejercicios de este repositorio, debes tener acceso a la cuenta BTP Trial, etc. Puedes revisar los prerrequisitos [aqui](/prerequisites.md). 
 
 ## Material :notebook:
 El material consiste en una serie de presentaciones y ejercicios. Los ejercicios deben ser completados y el resultado final debe ser presentado en un proyecto. 
