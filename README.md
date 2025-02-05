@@ -27,8 +27,12 @@ El material consiste en una serie de presentaciones y ejercicios. Los ejercicios
 
 ## Contenido :bookmark_tabs:
 Durante el bootcamp iremos realizando diariamente una sesión donde introduciremos un tema y procederemos a realizar una practica o revisión de material. Sientete libre de realizar preguntas y darle tu toque personal al código. 
-- Asegurate de haber completado los prerrequisitos
-Este es un listado de los ejercicios que se realizarán. 
+
+> [!NOTE]
+> Asegurate de haber completado los [prerrequisitos](/prerequisites.md). 
+ 
+
+
 
 
 
