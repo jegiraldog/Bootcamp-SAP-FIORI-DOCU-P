@@ -31,7 +31,8 @@ Durante el bootcamp iremos realizando diariamente una sesión donde introducirem
 > [!NOTE]
 > Asegurate de haber completado los [prerrequisitos](/prerequisites.md). 
  
-
+### Semana 1 
+#### Dia 1
 
 
 
