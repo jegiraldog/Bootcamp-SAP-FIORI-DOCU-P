@@ -8,7 +8,7 @@ Bienvenido al repositorio del Bootcamp Globant de Fiori. En este bootcamp daremo
 
 Inserte imagen Aquí 
 
- ![Northwind](/assets/Northwind_E-R_Diagram.png)
+ ![Northwind](/assets/Northwind.png)
  
 Escenario 
 
