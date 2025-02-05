@@ -25,7 +25,7 @@ Para completar los ejercicios de este repositorio, debes tener acceso a la cuent
 ## Material :notebook:
 El material consiste en una serie de presentaciones y ejercicios. Los ejercicios deben ser completados y el resultado final debe ser presentado en un proyecto. Las presentaciones las puedes conseguir acá. 
 
-## Contenido
+## Contenido :bookmark_tabs:
 Durante el bootcamp iremos realizando diariamente una sesión donde introduciremos un tema y procederemos a realizar una practica o revisión de material. Sientete libre de realizar preguntas y darle tu toque personal al código. 
 - Asegurate de haber completado los prerrequisitos
 Este es un listado de los ejercicios que se realizarán. 
