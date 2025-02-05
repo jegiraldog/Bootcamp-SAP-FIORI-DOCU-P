@@ -1,13 +1,13 @@
 # boot-fiori-globant
 Boot camp Fiori / Globant. Introducción al desarrollo Fiori. Los conceptos básicos y cómo usar las herramientas para crear aplicaciones simples.
 
-Programación del evento 
+## Programación del evento 
 Inicio - 24/02/2025
 
 Bienvenido al repositorio del Bootcamp Globant de Fiori. En este bootcamp daremos unun vistazo a SAP, sus módulos principales, propósitos y herramientas clave, con el fin de entender cómo esta plataforma puede integrarse en entornos empresariales. Luego realizaremos una introducción al desarrollo Fiori hasta desarrollar una aplicación basada en información consultada al OData Northwind. 
 
 Inserte imagen Aquí 
-
+ 
 Escenario 
 
 La empresa ficticia Northwind Traders se dedica a la venta de productos alimenticios y bebidas a nivel global. Para mejorar la experiencia de sus empleados y optimizar la gestión de pedidos, la empresa ha decidido implementar una aplicación SAP Fiori que permita:
