@@ -1,4 +1,4 @@
-# SAP 
+# Introducción a SAP
 
 ## ¿Qué es SAP ERP?
 SAP es la sigla en alemán de sistemas, aplicaciones y productos). ERP es la sigla en inglés de “enterprise resource planning" (planificación de recursos empresariales). 
@@ -39,3 +39,5 @@ Es un software de planificación de recursos empresariales (ERP) que permite int
 - SAP Business Technology Platform (BTP):
  - Ecosistema de desarrollo que incluye servicios como Machine Learning, IoT y analíticas avanzadas.
  - Facilita la extensión de funcionalidades SAP mediante microservicio
+
+    [Slides del día 1](/Contenido/Semana%201/Presentación%20Día%201.pdf). 
