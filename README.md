@@ -28,7 +28,7 @@ Durante el bootcamp iremos realizando diariamente una sesión donde introducirem
 > Asegurate de haber completado los [prerrequisitos](/prerequisites.md). 
  
 ### Semana 1 
-#### Día 1 - Miércoles - 05/03/2025  [Introducción a SAP](/Contenido/Semana%201/Presentación%20Día%201.pdf). 
+#### Día 1 - Miércoles - 05/03/2025  [Introducción a SAP](/Contenido/Semana%201/DIA_1.md). 
 <!-- 
 #### Dia 2 - Fundamentos de Fiori -->
 
