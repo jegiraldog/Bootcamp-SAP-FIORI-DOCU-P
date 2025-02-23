@@ -1,9 +1,10 @@
 # SAP 
 
-¿Qué es SAP ERP?
-SAP es la sigla en alemán de sistemas, aplicaciones y productos). ERP es la sigla en inglés de “enterprise resource planning" (planificación de recursos empresariales). Es un software de planificación de recursos empresariales (ERP) que permite integrar diferentes procesos de negocio en una sola plataforma.
+## ¿Qué es SAP ERP?
+SAP es la sigla en alemán de sistemas, aplicaciones y productos). ERP es la sigla en inglés de “enterprise resource planning" (planificación de recursos empresariales). 
+Es un software de planificación de recursos empresariales (ERP) que permite integrar diferentes procesos de negocio en una sola plataforma.
 
-Módulos Principales de SAP (15 minutos)
+## Módulos Principales de SAP 
 ERP Central Component (ECC): Una solución ERP tradicional que permite la gestión de operaciones financieras, logísticas y humanas.
 SAP S/4HANA: La evolución de ECC que opera sobre la base de datos en memoria HANA, ofreciendo analíticas en tiempo real y mayor eficiencia.
 Principales módulos:
