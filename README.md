@@ -28,8 +28,8 @@ Durante el bootcamp iremos realizando diariamente una sesión donde introducirem
 > Asegurate de haber completado los [prerrequisitos](/prerequisites.md). 
  
 ### Semana 1 
-#### Día 1 -  [Introducción a SAP](/Contenido/Semana 1/Día 1 - Introducción a SAP.pptx.pdf). 
-<!-- 
+#### Día 1 - [Introducción a SAP](/prerequisites.md). 
+<!-- Contenido/Semana 1/Presentación Día 1.pdf
 #### Dia 2 - Fundamentos de Fiori -->
 
 
