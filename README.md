@@ -29,7 +29,8 @@ Durante el bootcamp iremos realizando diariamente una sesión donde introducirem
  
 ### Semana 1 
 #### Dia 1 - ¿Qué es SAP?
-#### Dia 2 - Fundamentos de Fiori 
+<!-- 
+#### Dia 2 - Fundamentos de Fiori -->
 
 
 
