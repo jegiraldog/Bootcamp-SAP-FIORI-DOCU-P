@@ -5,40 +5,37 @@ SAP es la sigla en alemán de sistemas, aplicaciones y productos). ERP es la sig
 Es un software de planificación de recursos empresariales (ERP) que permite integrar diferentes procesos de negocio en una sola plataforma.
 
 ## Módulos Principales de SAP 
-ERP Central Component (ECC): Una solución ERP tradicional que permite la gestión de operaciones financieras, logísticas y humanas.
-SAP S/4HANA: La evolución de ECC que opera sobre la base de datos en memoria HANA, ofreciendo analíticas en tiempo real y mayor eficiencia.
-Principales módulos:
-FI (Financial Accounting): Maneja procesos contables como cuentas por pagar, cuentas por cobrar y consolidación financiera.
-CO (Controlling): Permite el control de costos, análisis de rentabilidad y planificación financiera.
-MM (Materials Management): Gestión de compras, inventarios y relaciones con proveedores.
-SD (Sales and Distribution): Procesos de ventas, distribución de productos y facturación.
-HCM (Human Capital Management): Administración de personal, incluyendo la gestión de nóminas y desarrollo del talento.
-PP (Production Planning): Planificación y control de la producción para cumplir con la demanda.
-Integración entre los módulos: Todos los módulos están interconectados, asegurando que los datos fluyan entre las áreas de la empresa.
-¿Para qué sirve SAP? 
-Automatización y optimización de procesos empresariales: Reduce tareas manuales y acelera las operaciones.
-Reducción de errores: Al centralizar los datos, se minimizan inconsistencias y errores humanos.
-Mejora en la toma de decisiones: Gracias a la analítica en tiempo real, los gerentes pueden actuar rápidamente.
-Adaptabilidad a industrias: SAP ofrece soluciones específicas para sectores como manufactura, retail, farmacéutica, entre otros.
-Herramientas clave para desarrolladores en SAP (10 minutos)
-ABAP (Advanced Business Application Programming):
-Lenguaje propio de SAP utilizado para personalizar y desarrollar aplicaciones.
-Ejemplo: Crear reportes personalizados o desarrollar transacciones propias.
-SAP Fiori:
-Interfaz de usuario moderna con diseño centrado en la experiencia del usuario (UX).
-Utiliza tecnologías como HTML5 y SAPUI5.
-Permite crear aplicaciones responsivas y adaptadas a dispositivos móviles.
-SAP HANA:
-Plataforma de base de datos en memoria.
-Ofrece alta velocidad y capacidad para analizar grandes volúmenes de datos en tiempo real.
-Herramientas de integración:
-SAP PI/PO (Process Integration/Process Orchestration): Para integrar sistemas dentro y fuera del entorno SAP.
-SAP Integration Suite: Solución cloud para integración de aplicaciones y datos.
-SAP Business Technology Platform (BTP):
-Ecosistema de desarrollo que incluye servicios como Machine Learning, IoT y analíticas avanzadas.
-Facilita la extensión de funcionalidades SAP mediante microservicios.
-Creación de aplicaciones personalizadas:
-Uso de SAP Business Application Studio (BAS): Una herramienta moderna basada en la nube que permite desarrollar aplicaciones utilizando lenguajes y marcos como Java, Node.js o SAPUI5.
-Desarrollo de aplicaciones con SAP Fiori Elements: Plantillas predefinidas que permiten crear aplicaciones rápidamente con un enfoque en la experiencia de usuario.
-Integración de APIs y servicios de SAP desde la SAP API Business Hub: Una biblioteca de APIs lista para usar.
-Casos de uso: Creación de dashboards interactivos, aplicaciones móviles y soluciones específicas para procesos empresariales.
+- ERP Central Component (ECC): Una solución ERP tradicional que permite la gestión de operaciones financieras, logísticas y humanas.
+- SAP S/4HANA: La evolución de ECC que opera sobre la base de datos en memoria HANA, ofreciendo analíticas en tiempo real y mayor eficiencia.
+
+- Principales módulos:
+* FI (Financial Accounting): Maneja procesos contables como cuentas por pagar, cuentas por cobrar y consolidación financiera.
+* CO (Controlling): Permite el control de costos, análisis de rentabilidad y planificación financiera.
+* MM (Materials Management): Gestión de compras, inventarios y relaciones con proveedores.
+* SD (Sales and Distribution): Procesos de ventas, distribución de productos y facturación.
+* HCM (Human Capital Management): Administración de personal, incluyendo la gestión de nóminas y desarrollo del talento.
+* PP (Production Planning): Planificación y control de la producción para cumplir con la demanda.
+- Integración entre los módulos: Todos los módulos están interconectados, asegurando que los datos fluyan entre las áreas de la empresa.
+
+## ¿Para qué sirve SAP? 
+- Automatización y optimización de procesos empresariales: Reduce tareas manuales y acelera las operaciones.
+- Reducción de errores: Al centralizar los datos, se minimizan inconsistencias y errores humanos.
+- Mejora en la toma de decisiones: Gracias a la analítica en tiempo real, los gerentes pueden actuar rápidamente.
+- Adaptabilidad a industrias: SAP ofrece soluciones específicas para sectores como manufactura, retail, farmacéutica, entre otros.
+- Herramientas clave para desarrolladores en SAP (10 minutos)
+- ABAP (Advanced Business Application Programming):
+  - Lenguaje propio de SAP utilizado para personalizar y desarrollar aplicaciones.
+  - Ejemplo: Crear reportes personalizados o desarrollar transacciones propias.
+- SAP Fiori:
+  - Interfaz de usuario moderna con diseño centrado en la experiencia del usuario (UX).
+  - Utiliza tecnologías como HTML5 y SAPUI5.
+  - Permite crear aplicaciones responsivas y adaptadas a dispositivos móviles.
+- SAP HANA:
+  - Plataforma de base de datos en memoria.
+  - Ofrece alta velocidad y capacidad para analizar grandes volúmenes de datos en tiempo real.
+- Herramientas de integración:
+  - SAP PI/PO (Process Integration/Process Orchestration): Para integrar sistemas dentro y fuera del entorno SAP.
+  - SAP Integration Suite: Solución cloud para integración de aplicaciones y datos.
+- SAP Business Technology Platform (BTP):
+ - Ecosistema de desarrollo que incluye servicios como Machine Learning, IoT y analíticas avanzadas.
+ - Facilita la extensión de funcionalidades SAP mediante microservicio

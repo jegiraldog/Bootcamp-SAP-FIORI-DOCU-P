@@ -3,7 +3,8 @@ Boot camp Fiori / Globant. Introducción al desarrollo Fiori. Los conceptos bás
 
 ## Programación del evento :spiral_calendar:
 Reunión Kick Off - 24/02/2025
-Inicio 05/03/2025 
+Inicio 05/03/2025. 
+
 Bienvenido al repositorio del Bootcamp Globant de Fiori. En este bootcamp daremos un vistazo a SAP, sus módulos principales, propósitos y herramientas clave, con el fin de entender cómo esta plataforma puede integrarse en entornos empresariales. Luego realizaremos una introducción al desarrollo Fiori hasta desarrollar una aplicación basada en información consultada al OData Northwind. 
 
  ![Northwind](/assets/Northwind.png)
@@ -27,8 +28,9 @@ Durante el bootcamp iremos realizando diariamente una sesión donde introducirem
 > Asegurate de haber completado los [prerrequisitos](/prerequisites.md). 
  
 ### Semana 1 
-#### Dia 1 - ¿Qué es SAP?
-#### Dia 2 - Fundamentos de Fiori 
+#### Día 1 -  [Introducción a SAP](/prerequisites.md). 
+<!-- 
+#### Dia 2 - Fundamentos de Fiori -->
 
 
 
