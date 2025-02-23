@@ -9,12 +9,12 @@ Es un software de planificación de recursos empresariales (ERP) que permite int
 - SAP S/4HANA: La evolución de ECC que opera sobre la base de datos en memoria HANA, ofreciendo analíticas en tiempo real y mayor eficiencia.
 
 - Principales módulos:
-* FI (Financial Accounting): Maneja procesos contables como cuentas por pagar, cuentas por cobrar y consolidación financiera.
-* CO (Controlling): Permite el control de costos, análisis de rentabilidad y planificación financiera.
-* MM (Materials Management): Gestión de compras, inventarios y relaciones con proveedores.
-* SD (Sales and Distribution): Procesos de ventas, distribución de productos y facturación.
-* HCM (Human Capital Management): Administración de personal, incluyendo la gestión de nóminas y desarrollo del talento.
-* PP (Production Planning): Planificación y control de la producción para cumplir con la demanda.
+  - FI (Financial Accounting): Maneja procesos contables como cuentas por pagar, cuentas por cobrar y consolidación financiera.
+  - CO (Controlling): Permite el control de costos, análisis de rentabilidad y planificación financiera.
+  - MM (Materials Management): Gestión de compras, inventarios y relaciones con proveedores.
+  - SD (Sales and Distribution): Procesos de ventas, distribución de productos y facturación.
+  -  HCM (Human Capital Management): Administración de personal, incluyendo la gestión de nóminas y desarrollo del talento.
+  - PP (Production Planning): Planificación y control de la producción para cumplir con la demanda.
 - Integración entre los módulos: Todos los módulos están interconectados, asegurando que los datos fluyan entre las áreas de la empresa.
 
 ## ¿Para qué sirve SAP? 
