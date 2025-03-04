@@ -11,9 +11,7 @@ Bienvenido al repositorio del Bootcamp Globant de Fiori. En este bootcamp daremo
  
 ## Escenario :briefcase:
 
-La empresa ficticia Northwind Traders se dedica a la venta de productos alimenticios y bebidas a nivel global. Para mejorar la experiencia de sus empleados y optimizar la gestión de pedidos, la empresa ha decidido implementar una aplicación SAP Fiori que permita:
-1.	Consultar el catálogo de productos.
-2.	Visualizar los pedidos actuales de los clientes.
+La empresa ficticia Northwind Traders se dedica a la venta de productos alimenticios y bebidas a nivel global. Para mejorar la experiencia de sus empleados y optimizar la gestión de pedidos, la empresa ha decidido implementar una aplicación SAP Fiori que se irá ampliando durante el bootcamp.
 
 ## Requerimientos :white_check_mark:
 Para completar los ejercicios de este repositorio, debes tener acceso a la cuenta BTP Trial, etc. Puedes revisar los prerrequisitos [aqui](/prerequisites.md). 
