@@ -41,4 +41,4 @@ Es un software de planificación de recursos empresariales (ERP) que permite int
  - Facilita la extensión de funcionalidades SAP mediante microservicio
 
     [Slides del día 1](/Contenido/Semana%201/Presentación%20Día%201.pdf).
- [Quiz] (https://docs.google.com/forms/d/e/1FAIpQLSdTjIgmy5WmHrDIXrChmIrRozghRguVIGCPnHRAMAFnkZPAog/viewform)
+ [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdTjIgmy5WmHrDIXrChmIrRozghRguVIGCPnHRAMAFnkZPAog/viewform)
