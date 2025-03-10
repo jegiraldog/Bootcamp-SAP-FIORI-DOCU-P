@@ -4,5 +4,5 @@ Facilita el acceso a datos mediante operaciones estándar como CRUD (Create, Rea
 Se basa en principios como la URL parametrizable para consultas (filtrado, ordenación, paginación) y la interoperabilidad entre sistemas.
 
  [Slides del día 4](/Contenido/Semana%202/Presentación%20Día%204.pdf). 
- [Manual](/Contenido/Semana%202/Manual%20OData%20.pdf).
+ [Manual](/Contenido/Semana%202/Manual%20OData.pdf).
 
