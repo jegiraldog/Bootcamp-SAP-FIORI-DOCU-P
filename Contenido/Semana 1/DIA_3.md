@@ -14,4 +14,4 @@ Las capacidades de datos y análisis de SAP BTP permiten a las organizaciones ex
 - Inteligencia artificial (IA)
 SAP BTP ofrece un conjunto integral de tecnologías y servicios de inteligencia artificial, como SAP AI Business Services y Generative AI Hub. Estos permiten a las organizaciones aprovechar el poder de la inteligencia artificial para fomentar la innovación, mejorar la eficiencia y brindar valor agregado a los clientes.
 
-[Slides](/Contenido/Semana%201/DIA_1.md).
+ [Slides del día 3](/Contenido/Semana%201/Presentación%20Día%203.pdf).
