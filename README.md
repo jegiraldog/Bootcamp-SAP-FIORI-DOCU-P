@@ -29,6 +29,7 @@ Durante el bootcamp iremos realizando diariamente una sesión donde introducirem
 #### Día 1 - Miércoles - 05/03/2025  [Introducción a SAP](/Contenido/Semana%201/DIA_1.md).  - Johany Gil
 #### Dia 2 - Jueves - 06/03/2025  [Introducción a Fiori](/Contenido/Semana%201/DIA_2.md). - Johany Gil
 #### Dia 3 - Viernes - 07/03/2025  [BTP](/Contenido/Semana%201/DIA_3.md). - Johany Gil
+#### Dia 4 - Lunes - 10/03/2025  [OData](/Contenido/Semana%202/DIA_4.md). - Jhony Giraldo
 <!-- #### Dia 2 - Fundamentos de Fiori -->
 
 
