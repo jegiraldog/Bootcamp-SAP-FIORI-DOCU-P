@@ -1,6 +1,16 @@
-# ¿Que es OData?
-OData (Open Data Protocol) es un estándar desarrollado por Microsoft que permite la creación y consumo de APIs RESTful de manera estandarizada. 
-Facilita el acceso a datos mediante operaciones estándar como CRUD (Create, Read, Update, Delete) usando HTTP y formatos como JSON o XML. 
-Se basa en principios como la URL parametrizable para consultas (filtrado, ordenación, paginación) y la interoperabilidad entre sistemas.
+ ¿Que es OData?
+# Descripción de las Carpetas y Archivos
+- webapp/: Es la carpeta principal donde se encuentra todo el código fuente de la aplicación.
+ - controller/: Contiene los controladores de la aplicación que gestionan la lógica y el comportamiento. Cada vista suele tener un controlador asociado.
+ - view/: Aquí se encuentran las vistas de la aplicación, que pueden estar definidas en formatos como XML, HTML o JS.
+ - model/: Almacena los modelos de datos utilizados en la aplicación, como archivos JSON o configuraciones de OData.
+ - i18n/: Contiene los archivos de traducción para soportar múltiples idiomas en la aplicación.
+ - css/: Archivos de estilo CSS para personalizar la apariencia de la aplicación.
+ - js/: Archivos JavaScript adicionales que no se encuentran en los controladores o vistas.
+ - index.html: El archivo HTML principal que carga la aplicación.
+ - manifest.json: Un archivo clave que contiene la configuración de la aplicación, incluyendo rutas, modelos, y dependencias.
+ - Component.js: Define el componente de la aplicación y se encarga de la inicialización y configuración.
+- package.json: Archivo que gestiona las dependencias del proyecto y puede incluir scripts para tareas comunes de desarrollo.
 
- [Slides del día 4](/Contenido/Semana%202/Presentación%20Día%204.pdf).
+
+ [Slides del día 5](/Contenido/Semana%202/Presentación%20Día%205.pdf).
