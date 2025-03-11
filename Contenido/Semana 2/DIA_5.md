@@ -1,4 +1,8 @@
-# Descripción de las Carpetas y Archivos
+# Proyecto SAPUI5
+
+ ![SAPUI5](/assets/SAPUI5.png)
+
+## Descripción de las Carpetas y Archivos
 - webapp/: Es la carpeta principal donde se encuentra todo el código fuente de la aplicación.
  - controller/: Contiene los controladores de la aplicación que gestionan la lógica y el comportamiento. Cada vista suele tener un controlador asociadoo.
  - view/: Aquí se encuentran las vistas de la aplicación, que pueden estar definidas en formatos como XML, HTML o JS.
