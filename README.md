@@ -31,6 +31,7 @@ Durante el bootcamp iremos realizando diariamente una sesión donde introducirem
 #### Dia 3 - Viernes - 07/03/2025  [BTP](/Contenido/Semana%201/DIA_3.md). - Johany Gil
 #### Dia 4 - Lunes - 10/03/2025  [OData](/Contenido/Semana%202/DIA_4.md). - Jhony Giraldo
 #### Dia 5 - Martes - 11/03/2025  [Proyecto SAPUI5](/Contenido/Semana%202/DIA_5.md). - Jaime Jaramillo
+#### Dia 6 - Miércoles - 12/03/2025  [Proyecto SAPUI5](/Contenido/Semana%202/DIA_6.md). - Jaime Jaramillo
 <!-- #### Dia 2 - Fundamentos de Fiori -->
 
 
