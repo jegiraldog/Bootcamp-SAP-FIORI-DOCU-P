@@ -1,6 +1,6 @@
 # Descripción de las Carpetas y Archivos
 - webapp/: Es la carpeta principal donde se encuentra todo el código fuente de la aplicación.
- - controller/: Contiene los controladores de la aplicación que gestionan la lógica y el comportamiento. Cada vista suele tener un controlador asociado.
+ - controller/: Contiene los controladores de la aplicación que gestionan la lógica y el comportamiento. Cada vista suele tener un controlador asociadoo.
  - view/: Aquí se encuentran las vistas de la aplicación, que pueden estar definidas en formatos como XML, HTML o JS.
  - model/: Almacena los modelos de datos utilizados en la aplicación, como archivos JSON o configuraciones de OData.
  - i18n/: Contiene los archivos de traducción para soportar múltiples idiomas en la aplicación.
@@ -13,4 +13,5 @@
 
 
  [Slides del día 5](/Contenido/Semana%202/Presentación%20Día%205.pdf).
+ 
  [Manual](/Contenido/Semana%202/Manual%20Proyecto%20SAPUI5.pdf).
