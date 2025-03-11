@@ -1,6 +1,6 @@
 # App Hola Mundo
-Hoy crearemos nuestra primera aplicacion Hola Mundo. Apoyate con el siguiente material
+:alien: Hoy crearemos nuestra primera aplicacion Hola Mundo. Apoyate con el siguiente material
 
- [Slides del día 5](/Contenido/Semana%202/Presentación%20Día%205.pdf).
+ [Slides del día 6](/Contenido/Semana%202/Presentación%20Día%206.pdf).
  
- [Manual](/Contenido/Semana%202/Manual%20Proyecto%20SAPUI5.pdf).
+ [Manual](/Contenido/Semana%202/Manual%20Hola%20Mundo.pdf).
