@@ -33,6 +33,7 @@ Durante el bootcamp iremos realizando diariamente una sesión donde introducirem
  ### Dia 4 - Lunes - 10/03/2025  [OData](/Contenido/Semana%202/DIA_4.md). - Jhony Giraldo
  ### Dia 5 - Martes - 11/03/2025  [Proyecto SAPUI5](/Contenido/Semana%202/DIA_5.md). - Jaime Jaramillo / Jhony Giraldo
  ### Dia 6 - Miércoles - 12/03/2025 :alien: [App Hola Mundo](/Contenido/Semana%202/DIA_6.md). - Jaime Jaramillo /Jhony Giraldo
+ ### Dia 7 - Jueves - 13/03/2025 :electron: [Binding OData Solicitudes al servicio ( Botón Buscar ) - Primera Parte ](/Contenido/Semana%202/DIA_6.md). - Jaime Jaramillo /Jhony Giraldo
 <!-- #### Dia 2 - Fundamentos de Fiori -->
 
 
