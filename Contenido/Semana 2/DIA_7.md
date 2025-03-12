@@ -1,4 +1,4 @@
-# App Hola Mundo
+# Binding OData Solicitudes al servicio ( Botón Buscar ) - Primera Parte 
 :alien: Hoy crearemos nuestra primera aplicacion Hola Mundo. Apoyate con el siguiente material
 
  [Slides del día 6](/Contenido/Semana%202/Presentación%20Día%206.pdf).
