@@ -1,0 +1,9 @@
+<mvc:View controllerName="com.bootcamp.sapui5.freestyle.controller.Home"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+
+        <Text id="textPrueba" text="{i18n>textPruebai18n}"></Text>
+        
+    </Page>
+</mvc:View>
