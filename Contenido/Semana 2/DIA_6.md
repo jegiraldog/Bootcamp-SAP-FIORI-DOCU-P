@@ -11,3 +11,7 @@ Para usar el messageBox en el controler se debe declarar la clase
  [Slides del día 6](/Contenido/Semana%202/Presentación%20Día%206.pdf).
  
  [Manual](/Contenido/Semana%202/Manual%20Hola%20Mundo.pdf).
+
+ [Proyecto SAPUI5 día 6](/Ejercicios/DIA_6).
+
+
