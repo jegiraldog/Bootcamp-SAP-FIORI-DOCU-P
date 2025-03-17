@@ -36,7 +36,7 @@ Durante el bootcamp iremos realizando diariamente una sesión donde introducirem
  ### Dia 7 - Jueves - 13/03/2025 :electron: [Binding OData Solicitudes al servicio ( Botón Buscar ) - Primera Parte ](/Contenido/Semana%202/DIA_7.md). - Jaime Jaramillo /Jhony Giraldo
  ### Dia 8 - Viernes - 14/03/2025 :shamrock: [Modelo Local y Binding con la vista ](/Contenido/Semana%202/DIA_8.md). - Jaime Jaramillo /Jhony Giraldo
 ## Semana 3
- ### Dia 8 - Lunes - 17/03/2025 :boat: [Routing y Navigation ](/Contenido/Semana%203/DIA_9.md). - Jaime Jaramillo /Jhony Giraldo
+ ### Dia 9 - Lunes - 17/03/2025 :boat: [Routing y Navigation ](/Contenido/Semana%203/DIA_9.md). - Jaime Jaramillo /Jhony Giraldo
 <!-- #### Dia 2 - Fundamentos de Fiori -->
 
 
