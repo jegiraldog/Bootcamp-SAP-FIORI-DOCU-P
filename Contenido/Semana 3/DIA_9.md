@@ -5,4 +5,4 @@
 
 [Manual](/Contenido/Semana%202/Manual%20Routing%20Navigation.pdf).
 
-<!--  [Proyecto SAPUI5 día 9](/Ejercicios/DIA_9). -->
+  [Proyecto SAPUI5 día 9](/Ejercicios/DIA_9).
