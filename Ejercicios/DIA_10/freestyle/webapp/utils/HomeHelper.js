@@ -9,8 +9,8 @@ sap.ui.define([
 			this._oNorthwindModel = oNorthwindModel;
 		},
 
-		getProposalBystatus: async function() {
-            let oFilters = [];
+		getProposalBystatus: async function(oFilters) {
+            //let oFilters = [];
             return HomeService.readProducts(this._oNorthwindModel, oFilters);
         },
 

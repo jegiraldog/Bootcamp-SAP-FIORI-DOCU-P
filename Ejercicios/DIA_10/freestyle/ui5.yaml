@@ -17,7 +17,7 @@ server:
           url: https://ui5.sap.com
         backend:
           - scp: true
-            path: /northwind
+            path: /V3/northwind/
             url: https://services.odata.org
             destination: Northwind
     - name: fiori-tools-appreload
