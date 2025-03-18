@@ -5,4 +5,4 @@
 
 [Manual](/Contenido/Semana%202/Manual%20Filtros.pdf).
 
-<!--  [Proyecto SAPUI5 día 10](/Ejercicios/DIA_10). -->
+  [Proyecto SAPUI5 día 10](/Ejercicios/DIA_10).
