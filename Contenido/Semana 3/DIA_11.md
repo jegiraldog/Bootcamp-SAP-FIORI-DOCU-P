@@ -1,8 +1,8 @@
-# Filtros
-:no_entry:
+# Filtros - Combobox
+:spiral_notepad:
 
-[Slides del día 10](/Contenido/Semana%203/Presentación%20Día%2010.pdf).
+[Slides del día 11](/Contenido/Semana%203/Presentación%20Día%2011.pdf).
 
-[Manual](/Contenido/Semana%203/Manual%20Filtros.pdf).
+[Manual](/Contenido/Semana%203/Manual%20Filtros%20Combobox.pdf).
 
-<!-- [Proyecto SAPUI5 día 10](/Ejercicios/DIA_10). -->
+<!-- [Proyecto SAPUI5 día 11](/Ejercicios/DIA_11). -->
