@@ -5,4 +5,4 @@
 
 [Manual](/Contenido/Semana%203/Manual%20Filtros%20Combobox.pdf).
 
-<!-- [Proyecto SAPUI5 día 11](/Ejercicios/DIA_11). -->
+ [Proyecto SAPUI5 día 11](/Ejercicios/DIA_11). 
