@@ -38,7 +38,9 @@ Durante el bootcamp iremos realizando diariamente una sesión donde introducirem
 ## Semana 3
  ### Dia 9 - Lunes - 17/03/2025 :boat: [Routing y Navigation ](/Contenido/Semana%203/DIA_9.md). - Jaime Jaramillo /Jhony Giraldo
  ### Dia 10 - Martes - 18/03/2025 :no_entry: [Filtros ](/Contenido/Semana%203/DIA_10.md). - Jaime Jaramillo /Jhony Giraldo
+ ### Dia 11 - Miércoles  - 19/03/2025 :spiral_notepad: [Filtros - Combobox ](/Contenido/Semana%203/DIA_11.md). - Jaime Jaramillo /Jhony Giraldo
 <!-- #### Dia 2 - Fundamentos de Fiori -->
+
 
 
 
