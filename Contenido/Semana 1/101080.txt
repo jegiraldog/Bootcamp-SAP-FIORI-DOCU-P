@@ -1,0 +1,7 @@
+- 101080
+	Transacción ZFI_TAX_AFIP_PROV
+	
+	Hay que hacer ordines sepradas para cada punto, elmodo test 
+	lo que hace es que va ala rchivo de infoaval o el del pc y cuit in existente trabaja si el provceedor nbo esta en la lista de afip lo da por inexistente 
+
+actualiza razon cial busca pata el mismo cuit el no,bre en la afi, mira el no,mbre original y lo modifica. lfa1-name1
