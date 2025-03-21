@@ -1,8 +1,6 @@
-# Formatter y Binding Expression
-:sunglasses:
+# GW ES5 Destination 
 
-[Slides del día 12](/Contenido/Semana%203/Presentación%20Día%2012.pdf).
+[Slides del día 13](/Contenido/Semana%203/Presentación%20Día%2013.pdf).
 
-[Manual](/Contenido/Semana%203/Manual%20Formatter%20Binding.pdf).
+[Manual](/Contenido/Semana%203/Manual%20GW%20ES5%20Destination.pdf).
 
-[Proyecto SAPUI5 día 12](/Ejercicios/DIA_12). 
