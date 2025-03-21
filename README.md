@@ -40,6 +40,7 @@ Durante el bootcamp iremos realizando diariamente una sesión donde introducirem
  ### Dia 10 - Martes - 18/03/2025 :no_entry: [Filtros ](/Contenido/Semana%203/DIA_10.md). - Jaime Jaramillo /Jhony Giraldo
  ### Dia 11 - Miércoles  - 19/03/2025 :spiral_notepad: [Filtros - Combobox ](/Contenido/Semana%203/DIA_11.md). - Jaime Jaramillo /Jhony Giraldo
  ### Dia 12 - Jueves  - 20/03/2025 :sunglasses: [Formatter y Binding Expression ](/Contenido/Semana%203/DIA_12.md). - Jaime Jaramillo /Jhony Giraldo
+ ### Dia 13 - Jueves  - 21/03/2025  [GW ES5 Destination ](/Contenido/Semana%203/DIA_12.md). - Jaime Jaramillo /Jhony Giraldo
 <!-- #### Dia 2 - Fundamentos de Fiori -->
 
 
