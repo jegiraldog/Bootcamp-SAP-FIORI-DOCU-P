@@ -5,4 +5,4 @@
 
 [Manual](/Contenido/Semana%204/Manual%20Controles%20Smart.pdf).
 
-<!--[Proyecto SAPUI5 día 12](/Ejercicios/DIA_12). -->
+[Proyecto SAPUI5 día 14](/Ejercicios/DIA_14).
