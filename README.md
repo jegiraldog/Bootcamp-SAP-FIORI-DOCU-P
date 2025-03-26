@@ -43,6 +43,7 @@ Durante el bootcamp iremos realizando diariamente una sesión donde introducirem
  ### Dia 13 - Viernes  - 21/03/2025  [GW ES5 Destination ](/Contenido/Semana%203/DIA_12.md). - Jaime Jaramillo /Jhony Giraldo
  ## Semana 4
  ### Dia 14 - Martes - 25/03/2025  [Controles Smart ](/Contenido/Semana%204/DIA_14.md). - Jaime Jaramillo /Jhony Giraldo
+ ### Dia 15 - Miércoles - 26/03/2025  [Fiori Elements ](/Contenido/Semana%204/DIA_15.md). - Jaime Jaramillo /Jhony Giraldo
 <!-- #### Dia 2 - Fundamentos de Fiori -->
 
 
