@@ -1,25 +1,25 @@
 ## Application Details
 |               |
 | ------------- |
-|**Generation Date and Time**<br>Wed Mar 12 2025 17:13:53 GMT+0000 (Coordinated Universal Time)|
+|**Generation Date and Time**<br>Tue Mar 25 2025 17:19:45 GMT+0000 (Coordinated Universal Time)|
 |**App Generator**<br>@sap/generator-fiori-freestyle|
-|**App Generator Version**<br>1.16.5|
+|**App Generator Version**<br>1.17.0|
 |**Generation Platform**<br>SAP Business Application Studio|
 |**Template Used**<br>simple|
 |**Service Type**<br>SAP System (ABAP On Premise)|
-|**Service URL**<br>https://services.odata.org/northwind/northwind.svc/|
-|**Module Name**<br>freestyle|
-|**Application Title**<br>FreeStyle SAPUI5|
+|**Service URL**<br>https://sapes5.sapdevcenter.com/sap/opu/odata/sap/SEPMRA_PROD_MAN|
+|**Module Name**<br>smarcontrols|
+|**Application Title**<br>Controles Smart|
 |**Namespace**<br>com.bootcamp.sapui5|
-|**UI5 Theme**<br>sap_horizon|
-|**UI5 Version**<br>1.133.0|
+|**UI5 Theme**<br>sap_fiori_3|
+|**UI5 Version**<br>1.84.14|
 |**Enable Code Assist Libraries**<br>False|
 |**Enable TypeScript**<br>False|
 |**Add Eslint configuration**<br>False|
 
-## freestyle
+## smarcontrols
 
-An SAP Fiori application
+An SAP Fiori application.
 
 ### Starting the generated app
 
@@ -40,4 +40,3 @@ An SAP Fiori application
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
 
-# Bootcamp-SAP-FIORI-P
