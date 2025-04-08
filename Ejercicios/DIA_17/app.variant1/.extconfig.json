@@ -1,0 +1,46 @@
+{
+  "type": "abaprep",
+  "BSPName": "HCM_EMPLOYEE_MF",
+  "component": "HCM_EMPLOYEE_MF%2fComponent.js",
+  "manifest": "HCM_EMPLOYEE_MF%2fmanifest.json",
+  "versionJsonPath": "HCM_EMPLOYEE_MF%2fversion.json",
+  "controllers": {
+    "Details": "HCM_EMPLOYEE_MF%2fview%2fDetails.controller.js",
+    "EmployeeCreate": "HCM_EMPLOYEE_MF%2fview%2fEmployeeCreate.controller.js",
+    "EmployeeDisplayChange": "HCM_EMPLOYEE_MF%2fview%2fEmployeeDisplayChange.controller.js",
+    "Main": "HCM_EMPLOYEE_MF%2fview%2fMain.controller.js",
+    "Master": "HCM_EMPLOYEE_MF%2fview%2fMaster.controller.js"
+  },
+  "views": {
+    "Details": "HCM_EMPLOYEE_MF%2fview%2fDetails.view.xml",
+    "EmployeeCreate": "HCM_EMPLOYEE_MF%2fview%2fEmployeeCreate.view.xml",
+    "EmployeeDisplayChange": "HCM_EMPLOYEE_MF%2fview%2fEmployeeDisplayChange.view.xml",
+    "Main": "HCM_EMPLOYEE_MF%2fview%2fMain.view.xml",
+    "Master": "HCM_EMPLOYEE_MF%2fview%2fMaster.view.xml"
+  },
+  "fragments": {
+    "BusyDialog": "HCM_EMPLOYEE_MF%2fview%2fBusyDialog.fragment.xml",
+    "CheckEmailsProcessDialog": "HCM_EMPLOYEE_MF%2fview%2fCheckEmailsProcessDialog.fragment.xml",
+    "SortDialog": "HCM_EMPLOYEE_MF%2fview%2fSortDialog.fragment.xml",
+    "UploadEmployee": "HCM_EMPLOYEE_MF%2fview%2fUploadEmployee.fragment.xml",
+    "UploadProcessDialog": "HCM_EMPLOYEE_MF%2fview%2fUploadProcessDialog.fragment.xml",
+    "UserOldTypeVHDialog": "HCM_EMPLOYEE_MF%2fview%2fUserOldTypeVHDialog.fragment.xml",
+    "emplDialog": "HCM_EMPLOYEE_MF%2fview%2femplDialog.fragment.xml",
+    "firstDialog": "HCM_EMPLOYEE_MF%2fview%2ffirstDialog.fragment.xml",
+    "lastDialog": "HCM_EMPLOYEE_MF%2fview%2flastDialog.fragment.xml"
+  },
+  "system": {
+    "name": "ES5_Gateway",
+    "proxyUrlPrefix": "/destinations/ES5_Gateway",
+    "path": "/sap/bc/adt",
+    "url": "/destinations/ES5_Gateway/sap/bc/adt",
+    "wattUsage": "odata_abap,dev_abap",
+    "entryPath": "/sap/bc/adt",
+    "additionalData": []
+  },
+  "minUI5Version": "1.78.0",
+  "namespace": "hcm.fs4_employee",
+  "parentResourceRootUrl": "/destinations/ES5_Gateway/sap/bc/ui5_ui5/sap/HCM_EMPLOYEE_MF",
+  "resourceBundle": "i18n/i18n.properties",
+  "shouldLinkComponentToManifest": true
+}
