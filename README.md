@@ -26,9 +26,9 @@ Durante el bootcamp iremos realizando diariamente una sesión donde introducirem
 > Asegurate de haber completado los [prerrequisitos](/prerequisites.md). 
  
 ## Semana 1 
- ### Día 1 - Miércoles - 05/03/2025  [Introducción a SAP](/Contenido/Semana%201/DIA_1.md).  - Johany Gil
- ### Dia 2 - Jueves - 06/03/2025  [Introducción a Fiori](/Contenido/Semana%201/DIA_2.md). - Johany Gil
- ### Dia 3 - Viernes - 07/03/2025  [BTP](/Contenido/Semana%201/DIA_3.md). - Johany Gil
+ ### Día 1 - Miércoles - 05/03/2025  [Introducción a SAP](/Contenido/Semana%201/DIA_1.md).  - Jhony E. Giraldo
+ ### Dia 2 - Jueves - 06/03/2025  [Introducción a Fiori](/Contenido/Semana%201/DIA_2.md). - Jhony E. Giraldo
+ ### Dia 3 - Viernes - 07/03/2025  [BTP](/Contenido/Semana%201/DIA_3.md). - Jhony E. Giraldo
 ## Semana 2
  ### Dia 4 - Lunes - 10/03/2025  [OData](/Contenido/Semana%202/DIA_4.md). - Jhony Giraldo
  ### Dia 5 - Martes - 11/03/2025  [Proyecto SAPUI5](/Contenido/Semana%202/DIA_5.md). - Jaime Jaramillo / Jhony Giraldo
@@ -48,10 +48,3 @@ Durante el bootcamp iremos realizando diariamente una sesión donde introducirem
  ### Dia 17 - Viernes - 28/03/2025  [Proyecto de ampliación ](/Contenido/Semana%204/DIA_17.md). - Jaime Jaramillo /Jhony Giraldo
   ## [Proyecto Final ](/Contenido/Proyecto%20Final.docx.pdf)
 <!-- #### Dia 2 - Fundamentos de Fiori -->
-
-
-
-
-
-
-
